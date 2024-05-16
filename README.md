@@ -16,4 +16,4 @@ DarkMode.
 
 Notes Are Saved locally on the browser so you can use it in real life.
 
-LIVE DEMO ON : https://nemesis12-1.github.io/NoteMe/
+LIVE DEMO ON : 
